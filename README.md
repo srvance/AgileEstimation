@@ -15,6 +15,7 @@ Materials supporting research and presentations on Agile estimation techniques
 * Distribution Sampling.xslx: Spreadsheet for exploring some basic concepts of Monte Carlo simulation using the rolling of dice.
   * Simulation worksheets
     * Two Die Rolls: Simulates the rolling of two 4-sided (tetrahedral) dice and analyzing the distribution of their sum. A tuneable parameter lets you decide how many rolls to consider in your analysis.
-    * One Die Roll: Simulates the rolling of two 4-sided (tetrahedral) dice by computing their values from a single roll in the range 1-16 (real world rolling a 20-sided die and ignoring 17-20) and analyzing the distribution of their sum. A tuneable parameter lets you decide how many rolls to consider in your analysis. Demonstrates the principle of distribution "flattening" or of sampling from a reference sample set.
+    * One Die Roll - Computed: Simulates the rolling of two 4-sided (tetrahedral) dice by computing their values from a single roll in the range 1-16 (real world rolling a 20-sided die and ignoring 17-20) and analyzing the distribution of their sum. A tuneable parameter lets you decide how many rolls to consider in your analysis. Demonstrates the principle of distribution "flattening" by computation as a means of creating a reference sample set.
+    * One Die Roll - Lookup: Simulates the rolling of two 4-sided (tetrahedral) dice by lookup up the  sum and analyzing the distribution of their sum. A tuneable parameter lets you decide how many rolls to consider in your analysis. Demonstrates the principle of distribution sampling by looking up values in the reference sample set.
   * Other worksheets
     * Frequency: Support data for distribution analysis. Do not change.
